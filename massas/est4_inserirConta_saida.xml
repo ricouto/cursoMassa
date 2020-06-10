@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dataset>
+  <usuarios id="1" nome="Dr. XML" email="ricardocaputo@gmail.com" senha="1234567890" created_at="2020-06-07 11:45:58.389544"/>
+  <contas id="94" nome="Conta Salva" usuario_id="1"/>
+  <massas/>
+  <transacoes/>
+</dataset>

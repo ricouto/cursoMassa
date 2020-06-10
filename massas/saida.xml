@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dataset>
+  <contas id="1" nome="Conta para Testes" usuario_id="1"/>
+  <contas id="2" nome="Conta CT005" usuario_id="1"/>
+  <massas id="1" tipo="CONTA_SB" valor="Quhuru Mo Viserion" usada="true"/>
+  <massas id="2" tipo="CONTA_SB" valor="Donnel of Duskendale Drogon" usada="true"/>
+  <massas id="3" tipo="CONTA_SB" valor="Poetess Balerion" usada="true"/>
+  <massas id="4" tipo="CONTA_SB" valor="Raynald Westerling Ghiscar" usada="true"/>
+  <massas id="5" tipo="CONTA_SB" valor="Catelyn Bracken Vermithrax" usada="true"/>
+  <massas id="6" tipo="CONTA_SB" valor="Balon Botley Vhagar" usada="true"/>
+  <massas id="7" tipo="CONTA_SB" valor="Maynard Plumm Valryon" usada="true"/>
+  <massas id="8" tipo="CONTA_SB" valor="Danelle Lothston Vhagar" usada="true"/>
+  <massas id="9" tipo="CONTA_SB" valor="Lester Tyraxes" usada="true"/>
+  <massas id="10" tipo="CONTA_SB" valor="Grazhar zo Galare Essovius" usada="true"/>
+  <massas id="11" tipo="CONTA" valor="Gambit" usada="true"/>
+  <massas id="12" tipo="CONTA" valor="Captain Rorschach" usada="true"/>
+  <massas id="13" tipo="CONTA" valor="Green Hercules Knight" usada="true"/>
+  <massas id="14" tipo="CONTA" valor="Starfire" usada="true"/>
+  <massas id="15" tipo="CONTA" valor="Box the Fated" usada="true"/>
+  <massas id="16" tipo="CONTA" valor="Star-Lord" usada="true"/>
+  <massas id="17" tipo="CONTA" valor="Gravity Knight" usada="true"/>
+  <massas id="18" tipo="CONTA" valor="Captain Mysterio Dragon" usada="true"/>
+  <massas id="19" tipo="CONTA" valor="Captain Zatanna" usada="true"/>
+  <massas id="20" tipo="CONTA" valor="Mr Arsenal" usada="true"/>
+  <massas id="21" tipo="CONTA" valor="Cyborg Azrael the Hunter" usada="true"/>
+  <massas id="22" tipo="CONTA" valor="Cyborg Arachne" usada="true"/>
+  <massas id="23" tipo="CONTA" valor="Tinkerer" usada="true"/>
+  <massas id="24" tipo="CONTA" valor="Illustrious Penguin" usada="true"/>
+  <massas id="25" tipo="CONTA" valor="Ultra Mandarin" usada="true"/>
+  <massas id="26" tipo="CONTA" valor="Captain Gravity Skull" usada="true"/>
+  <massas id="27" tipo="CONTA" valor="Snowbird" usada="true"/>
+  <massas id="28" tipo="CONTA" valor="Zatanna Dragon" usada="true"/>
+  <massas id="29" tipo="CONTA" valor="Ultra Skaar" usada="true"/>
+  <massas id="30" tipo="CONTA" valor="Ant" usada="true"/>
+  <massas id="31" tipo="CONTA" valor="Ammo" usada="true"/>
+  <massas id="32" tipo="CONTA" valor="Green Bird" usada="false"/>
+  <massas id="33" tipo="CONTA" valor="Giant Magneto Brain" usada="false"/>
+  <massas id="34" tipo="CONTA" valor="Green Shocker Knight" usada="false"/>
+  <massas id="35" tipo="CONTA" valor="Cypher Brain" usada="false"/>
+  <massas id="36" tipo="CONTA_SB" valor="S&apos;vrone Sunfyre" usada="true"/>
+  <massas id="37" tipo="CONTA_SB" valor="Boros Blount Morghul" usada="true"/>
+  <massas id="38" tipo="CONTA_SB" valor="Lyman Darry Drogon" usada="false"/>
+  <massas id="39" tipo="CONTA_SB" valor="Haggo Rhaegal" usada="false"/>
+  <massas id="40" tipo="CONTA_SB" valor="Aemon Blackfyre Dreamfyre" usada="false"/>
+  <massas id="41" tipo="CONTA_SB" valor="Galtry the Green Balerion" usada="false"/>
+  <massas id="42" tipo="CONTA_SB" valor="Edwyn Stark Vhagar" usada="false"/>
+  <transacoes/>
+  <usuarios id="1" nome="Usuario de controle" email="ricardocaputo@gmail.com" senha="1234567890" created_at="2020-06-07 11:45:58.389544"/>
+</dataset>
